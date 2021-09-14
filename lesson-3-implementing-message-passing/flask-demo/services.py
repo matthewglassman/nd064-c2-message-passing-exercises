@@ -1,9 +1,9 @@
-def retrieve_item(item_id):
+def retrieve_item():
     """
     This is a stubbed method of retrieving a resource. It doesn't actually do anything.
     """
     return {
-        "id": item_id,
+        "id": 1,
         "brand_name": "Clean Breathing",
         "name": "Air Purifier",
         "weight": 12.3,
