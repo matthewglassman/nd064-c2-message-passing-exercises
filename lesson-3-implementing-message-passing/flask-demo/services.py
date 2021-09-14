@@ -1,4 +1,4 @@
-def retrieve_item():
+def retrieve_item(item_id):
     """
     This is a stubbed method of retrieving a resource. It doesn't actually do anything.
     """
